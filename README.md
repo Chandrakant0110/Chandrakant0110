@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java(DSA) & Flutter...
 - 💞️ I’m looking to collaborate on Nothing :) ...
 - 📫 How to reach me ...
-https://twitter.com/chandrakant_s4
+chandrakant.21.07.2003@gmail.com
 
 <div align=center>
 
@@ -12,6 +12,10 @@ https://twitter.com/chandrakant_s4
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakant0110&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+### HACKTOBERFEST 2023:
+
+[![@chandrakant0110's Holopin board](https://holopin.me/chandrakant0110)](https://holopin.io/@chandrakant0110)
 
 
 ## GSSOC('24) Badges 🪶
