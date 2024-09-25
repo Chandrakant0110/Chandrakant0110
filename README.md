@@ -98,7 +98,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=ThankYou!&color=gradient&height=100&section=footer"/>
 </p>
 <!---
 Chandrakant0110/Chandrakant0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
